@@ -1,2 +1,2 @@
 # House-prediction
-https://house-prediction-wctwgkvhjgqgnkktz9tyuc.streamlit.app/
+https://github.com/kartikbhatt2808/StreamlitHousePricePrediction
